@@ -1,6 +1,6 @@
 # Mobile Projects Portfolio
 
-## 📱 Moving Assistant - Native iOS App
+## 📱 [Moving Assistant - Native iOS App](https://www.youtube.com/watch?v=tguY241cjDc)
 *SwiftUI • MapKit • Google API • SwiftData • TipKit • Swift Charts • UIKit • AVFoundation*
 
 ![iOS](https://img.shields.io/badge/iOS-Native-blue) ![SwiftUI](https://img.shields.io/badge/SwiftUI-Latest-orange)
@@ -37,7 +37,7 @@ A comprehensive iOS application designed to streamline the moving process by ena
 
 ---
 
-## 🏨 Chariot CodeFest - Hospitality App
+## 🏨 [Chariot CodeFest - Hospitality App](https://github.com/michaelodusami/reactnative-charriot)
 *React Native • Expo Go • FastAPI • AWS*
 
 ![React Native](https://img.shields.io/badge/React_Native-Cross_Platform-61DAFB) ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
@@ -72,7 +72,7 @@ A hospitality application prototype developed for Marriott in under 48 hours, de
 
 ---
 
-## 📰 Bytes - News Platform
+## 📰 [Bytes - News Platform](https://github.com/michaelodusami/reactnative-bytes)
 *React Native • Expo Go • MongoDB • FastAPI • Text-to-Speech*
 
 ![React Native](https://img.shields.io/badge/React_Native-Cross_Platform-61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
