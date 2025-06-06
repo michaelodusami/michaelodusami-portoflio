@@ -43,9 +43,9 @@ A comprehensive iOS application designed to streamline the moving process by ena
 ![React Native](https://img.shields.io/badge/React_Native-Cross_Platform-61DAFB) ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 
 <div align="center">
-  <img src="chariot1.png" alt=" width="200"/>
-  <img src="chariot2.png" alt="" width="200"/>
-  <img src="chariot3.png" alt="" width="200"/>
+  <img src="charriot1.png" alt=" width="200"/>
+  <img src="charriot2.png" alt="" width="200"/>
+  <img src="charriot3.png" alt="" width="200"/>
 </div>
 
 **Overview**  
