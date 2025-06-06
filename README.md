@@ -6,9 +6,9 @@
 ![iOS](https://img.shields.io/badge/iOS-Native-blue) ![SwiftUI](https://img.shields.io/badge/SwiftUI-Latest-orange)
 
 <div align="center">
-  <img src="move-1.png" alt="" width="200"/>
-  <img src="move-2.png" alt="" width="200"/>
-  <img src="move-3.png" alt="" width="200"/>
+  <img src="move1.png" alt="" width="200"/>
+  <img src="move2.png" alt="" width="200"/>
+  <img src="move3.png" alt="" width="200"/>
 </div>
 
 **Overview**  
@@ -43,9 +43,9 @@ A comprehensive iOS application designed to streamline the moving process by ena
 ![React Native](https://img.shields.io/badge/React_Native-Cross_Platform-61DAFB) ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 
 <div align="center">
-  <img src="chariot-1.png" alt=" width="200"/>
-  <img src="chariot-2.png" alt="" width="200"/>
-  <img src="chariot-3.png" alt="" width="200"/>
+  <img src="chariot1.png" alt=" width="200"/>
+  <img src="chariot2.png" alt="" width="200"/>
+  <img src="chariot3.png" alt="" width="200"/>
 </div>
 
 **Overview**  
@@ -78,7 +78,7 @@ A hospitality application prototype developed for Marriott in under 48 hours, de
 ![React Native](https://img.shields.io/badge/React_Native-Cross_Platform-61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
 
 <div align="center">
-  <img src="bytes-1.png" alt="Bytes News Feed" width="200"/>
+  <img src="bytes1.png" alt="Bytes News Feed" width="200"/>
 </div>
 
 **Overview**  
